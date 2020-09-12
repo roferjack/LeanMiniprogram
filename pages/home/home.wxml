@@ -3,3 +3,5 @@
 <button size="mini">按钮</button>
 <image src=""></image>
 
+<view>第二个标签</view>
+<div>456</div>
